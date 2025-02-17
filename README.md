@@ -67,22 +67,22 @@
 <hr style="border: 1px solid #333; margin: 20px 0;">
 <!--CONNECT WITH ME-->
 <div id="user-content-toc">
-	<h3>
+	<h3 align="center">
 		Connect with me 
 		<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 	</h3>
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/damian-lazos-0a0266308/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
- <a href="https://skillicons.dev">
+ <a href="https://www.instagram.com/demianvlack/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 
- <a href="https://skillicons.dev">
+ <a href="mailto:damicode.py@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
