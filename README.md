@@ -48,20 +48,25 @@
 <hr style="border: 1px solid #333; margin: 20px 0;">
 <!--METRICS-->
 <div>
-	<h3 align="center">
+		<h3 align="center">
       Metrics
       <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
     </h3>
 	<p align="center"> 
-		<img src="https://komarev.com/ghpvc/?username=damicodedotpy&label=Profile%20views&color=0e75b6&style=flat" alt="damicodedotpy" /> 
+		<img src="https://komarev.com/ghpvc/?username=damicodedotpy&label=Profile%20views&color=blue&style=for-the-badge" alt="damicodedotpy" /> 
 	</p>
   <p align="center">
   <img src= "https://www.codewars.com/users/damicodedotpy/badges/large"/>
   </p>
 </div>
+
 <p align="center">
-	
-[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=damicodedotpy&count_private=true&show_icons=true&theme=dark)](https://github.com/damicodedotpy/github-readme-stats)
+
+![GitHub Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damicodedotpy&theme=react)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damicodedotpy&theme=react)
+![GitHub Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damicodedotpy&theme=react)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=damicodedotpy&theme=dark&background=000000)](https://git.io/streak-stats)-->
+
 </p>
 <!--BREAKER-->
 <hr style="border: 1px solid #333; margin: 20px 0;">
@@ -86,3 +91,13 @@
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
+
+<!--BREAKER-->
+<hr style="border: 1px solid #333; margin: 20px 0;">
+
+
+
+
+
+
+
